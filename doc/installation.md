@@ -2,6 +2,8 @@
 
 **Note:** Due to the USB 3.0 translation layer between native hardware and virtual machine, the librealsense team does not recommend or support installation in a VM. 
 
+**Note:** We tested and installed librealsense on Lubuntu 16.04 Mastermind PC, and we didn't do *Video4Linux backend* part.
+
 ## 3rd-party dependencies
 
 The project requires two external dependencies, GLFW3 and libusb-1.0. The Cmake build environment requires pkg-config.
