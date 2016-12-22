@@ -1,8 +1,10 @@
 # Linux Installation
 
-**Note:** Due to the USB 3.0 translation layer between native hardware and virtual machine, the librealsense team does not recommend or support installation in a VM. 
+**Note:** Due to the USB 3.0 translation layer between native hardware and virtual machine, the librealsense team does not recommend or support installation in a VM.
 
 **Note:** We tested and installed librealsense on Lubuntu 16.04 Mastermind PC, and we didn't do *Video4Linux backend* part.
+**Note:** We tested and installed librealsense on Lubuntu 14.04 laptop (MSI), and we didn't do *Video4Linux backend* part.
+
 
 ## 3rd-party dependencies
 
