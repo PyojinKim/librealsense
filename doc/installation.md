@@ -4,7 +4,7 @@
 
 **Note:** We tested and installed librealsense on Lubuntu 16.04 Mastermind PC, and we didn't do *Video4Linux backend* part.
 **Note:** We tested and installed librealsense on Lubuntu 14.04 laptop (MSI), and we didn't do *Video4Linux backend* part.
-**Note:** We tested and installed librealsense on Ubuntu 14.04.5 laptop (MSI), and we didn't do *Video4Linux backend* part.
+**Note:** We tested and installed librealsense on Ubuntu 14.04.5 laptop (MSI), and we didn't do *Video4Linux backend* part. 
 
 
 ## 3rd-party dependencies
